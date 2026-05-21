@@ -1,6 +1,6 @@
 <!-- 个人主页头部 -->
 <h1 align="center">Hi 👋, I'm Corah</h1>
-<h3 align="center">目前是名在校大三生/h3>
+<h3 align="center">目前是名在校大三生</h3>
 
 <!-- 可选：动态打字效果 -->
 <p align="center">
